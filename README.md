@@ -1,6 +1,7 @@
 # nextgen
 
 Flutter Augmented Reality Application
+It is application based on flutter and firebase ,it fetches data from the firebase and use it in the app.
 
 ## Getting Started
 
