@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398774223474",
+    "project_id": "nextgen-96d53",
+    "storage_bucket": "nextgen-96d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398774223474:android:190343cdeb284e707138eb",
+        "android_client_info": {
+          "package_name": "com.shoaib.nextgen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398774223474-j8jcj77071qsgmmb3utkuffcnlu5nh3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwplf2Lr60fqcRWt_7vGBdBKyrhTZRx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398774223474-j8jcj77071qsgmmb3utkuffcnlu5nh3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
